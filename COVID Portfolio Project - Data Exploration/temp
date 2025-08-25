@@ -1,0 +1,35 @@
+🦠 COVID-19 Data Exploration Project
+
+This project explores global COVID-19 data using SQL to analyze cases, deaths, and vaccinations. The goal is to uncover insights about infection rates, mortality, and vaccination trends across countries and continents.
+
+🔑 Features
+
+Analysis of COVID-19 cases vs deaths to calculate mortality percentages
+
+Comparison of cases vs population to measure infection rates
+
+Identification of countries with the highest infection & death counts
+
+Continent-level breakdown of cases and deaths
+
+Global trend analysis of cases and deaths over time
+
+Vaccination progress using joins, CTEs, temp tables, and views
+
+🛠️ Skills & Tools Used
+
+SQL (Joins, CTEs, Temp Tables, Window Functions, Aggregate Functions, Views)
+
+Data Cleaning & Transformation
+
+Exploratory Data Analysis (EDA)
+
+📊 Key Insights
+
+Countries with the highest infection rates compared to their population
+
+Mortality rates for COVID-19 by country and continent
+
+Vaccination rollout analysis (% population vaccinated over time)
+
+Global impact trends for better visualization and decision-making
