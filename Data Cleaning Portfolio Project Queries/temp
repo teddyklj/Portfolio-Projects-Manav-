@@ -1,0 +1,37 @@
+🏡 Data Cleaning in SQL – Nashville Housing Dataset
+
+This project focuses on cleaning and preparing raw housing data using SQL to ensure accuracy, consistency, and usability for analysis. The dataset used is the Nashville Housing Data, which required significant cleaning before being ready for analytics and visualization.
+
+🔑 Data Cleaning Tasks
+
+✅ Standardized date formats
+
+✅ Populated missing property addresses using self-joins
+
+✅ Split addresses into street, city, and state columns
+
+✅ Cleaned owner address data into separate fields
+
+✅ Converted Y/N fields into Yes/No for clarity
+
+✅ Removed duplicates using CTEs and window functions
+
+✅ Dropped unused/irrelevant columns
+
+🛠️ Skills & Tools Used
+
+SQL (Joins, CTEs, Window Functions, Case Statements, String Functions, Aggregate Functions, ALTER TABLE, Update, Delete)
+
+Data Cleaning & Transformation
+
+Database Management (SQL Server)
+
+📊 Key Learnings
+
+Handling missing values with joins & conditional updates
+
+Normalizing inconsistent data formats
+
+Improving dataset readability and accuracy for analytics
+
+Applying SQL best practices for data preprocessing
