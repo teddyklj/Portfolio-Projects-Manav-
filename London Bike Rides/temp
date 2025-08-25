@@ -1,0 +1,13 @@
+🚲 London Bike Rides – Moving Average & Heatmap
+
+This Tableau project visualizes London bike ride patterns using moving averages and heatmaps. It highlights daily and seasonal trends, peak usage hours, and commuting behavior.
+
+Key Features:
+
+📈 Moving average trend analysis
+
+🌡️ Heatmap of hourly & seasonal demand
+
+📊 Interactive Tableau dashboard
+
+Tools: Tableau | London Bike Sharing Data
